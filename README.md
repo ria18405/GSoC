@@ -48,8 +48,9 @@ Community sentiment is based on the opinions and expectations of community membe
 
 ### Community Bonding - May 5th to May 31st, 2020
 
-* [Accepted for GSoC'20](https://medium.com/@guptaria/my-journey-of-gsoc20-begins-268ff97c2954)
-* [Community Bonding Blog](https://medium.com/@guptaria/community-bonding-gsoc20-f6629add7a7a)
+* BLOG: [Accepted for GSoC'20](https://medium.com/@guptaria/my-journey-of-gsoc20-begins-268ff97c2954)
+* BLOG: [Community Bonding](https://medium.com/@guptaria/community-bonding-gsoc20-f6629add7a7a)
+* [Weekly report](https://github.com/ria18405/GSoC/tree/master/Work/Community%20Bonding)
 
 ### Coding Period 1 - June 1st to July 3rd, 2020
 
