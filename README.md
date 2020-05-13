@@ -61,4 +61,4 @@ Community sentiment is based on the opinions and expectations of community membe
 
 * [Microtask Repository](https://github.com/ria18405/Microtasks)
 
-* [GSoC Project Proposal](https://drive.google.com/file/d/1JeiF_Pl1XizEWbh0Lz-7w3g0HIoAOFor/view?usp=sharing)
+* [GSoC Project Proposal](https://drive.google.com/file/d/1szrRuXBwLTlg_TB3pW7_3BlyetG0jP89/view?usp=sharing)

@@ -1,0 +1,1 @@
+This directory contains a weekly summary of all work done.
