@@ -1,0 +1,1 @@
+All meetings notes are present in the format YYYY-MM-DD-phase-week.txt

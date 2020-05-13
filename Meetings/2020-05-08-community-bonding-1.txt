@@ -1,0 +1,59 @@
+GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Community Bonding Meeting 1
+
+Agenda
+
+1. Communication channel for weekly meetings (proposals below):
+	- IRC (#grimoirelab channel on freenode)
+	- GoogleHangouts (GH) (1st option for Ria)
+
+2. Weekly meetings (proposals below)
+	- Thursday 16h to 17h (CEST) <-> 19h30 to 20h30 (IST)
+	- Thursday 17h to 18h (CEST) <-> 20h30 to 21h30 (IST)
+
+3. Share GH handlers for quick communication
+
+4. Mailing lists
+	- CHAOSS (updates for every coding period)
+	- GrimoireLab (https://lists.linuxfoundation.org/mailman/listinfo/grimoirelab-discussions)
+		Similar update like for CHAOSS
+		Only for technical updates
+		No updates
+5. Governance repo: https://github.com/chaoss/governance
+	Check with Georg
+6. Blog
+	- Example from past year: https://nishchith.com/blog/
+	- Consider cross-posting to SC.O blog for longer-term use? https://www.sociallyconstructed.online/blog.html 
+	- Also, consider featuring your blog posts on the CHAOSS website: 
+		https://github.com/chaoss/governance/blob/master/community-handbook/website.md#add-a-blog-post
+	- Post on the CHAOSS mailing list weekly updates with links to your blog posts
+
+7.Repo (which acts like a changelog of the project)
+	- Example from past year: https://github.com/inishchith/gsoc
+	- Consider a running google doc as well that we can use to collab?
+
+8.Tasks before the coding period
+	- Getting familiar with GrimoireLab (perceval, ELK, etc.)
+		- Input from Valerio
+		- Try to create a backend for the Marvel API
+			https://developer.marvel.com/docs
+		- Try to create raw/enrich connectors for the Marvel backend
+		- Try to create a dashboard
+	- Getting familiar with SCMS terminology and process 
+		- Input from Venia and Dylan
+		- Weekly catchup and training with Dylan and I on an aspect of the system over time.  We can record this for your use throughout the project and as a base for official support videos GL and SC.O can use. It will also be content and port-foliage post GSOC :)  
+		- Create an SCMS implementation in an existing implementation (data studio, powerBI, MaxQDA, Airtable, or excel) of your choice and leave it running throughout the project parallel to the one you’re making. You’ll be responsible for importing, tagging, and analysing traffic created just among us across our channels. This will get you familiar with the “front-end” use and pitfalls you’ll run in to throughout development and give you insights into the build and be used as a scratch pad of example data as you build the implementation in GL. at the meeting we’ll spend time mocking the conversation as clients would normally use it to analyze.
+
+		- Other ideas?
+
+
+9. Getting familiar with CHAOSS WGs
+	- Input from Georg
+	- https://github.com/chaoss/wg-value can be a good entry point
+	- Listen to podcast.chaoss.community/1 
+	- TBD
+
+
