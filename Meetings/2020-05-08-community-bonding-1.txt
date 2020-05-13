@@ -11,8 +11,8 @@ Agenda
 	- GoogleHangouts (GH) (1st option for Ria)
 
 2. Weekly meetings (proposals below)
-	- Thursday 16h to 17h (CEST) <-> 19h30 to 20h30 (IST)
-	- Thursday 17h to 18h (CEST) <-> 20h30 to 21h30 (IST)
+	- Friday 16h to 17h (CEST) <-> 19h30 to 20h30 (IST)
+	- Friday 17h to 18h (CEST) <-> 20h30 to 21h30 (IST)
 
 3. Share GH handlers for quick communication
 
