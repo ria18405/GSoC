@@ -21,8 +21,18 @@
 
 <br>
 
+#### MENTORS
+
+* Dylan Marcy
+
+* [Samantha Venia Logan](https://github.com/samanthavenialogan)
+
+* [Valerio ​ Cosentino](https://github.com/valeriocos)
+
+* [Georg Link](https://github.com/GeorgLink)
 
 ## PROJECT ABSTRACT
+
 Question: How does one measure the value of community interactions and accurately gauge “reputation” of a community as evident from qualitative sentiment?
 
 To answer this question, we must understand the interpersonal relationships of communities. Each individual tends to identify oneself to a specific group and develop associativity towards their group. As members, they gradually develop trust, encourage cooperation and become mutually codependent. These measures of connectivity are identified by a Social currency. 
