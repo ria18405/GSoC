@@ -1,0 +1,59 @@
+GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Community Bonding Meeting 2
+
+Agenda
+
+1. Discussion about the previous week
+	- A first blog set up
+	- How the introductions went
+	- Setting up the project tracker repository
+
+2. Delve into Standard implementation SCMS data ria has collected over the past week to emulate traditional SCMS meeting (10 minutes)
+	Ria will create a personal implementation this week.
+
+3. Training by Venia or Dylan on new aspects of the SCMS (10-15 minutes)
+	https://docs.google.com/presentation/d/1LHAlQiuZh7okRffmQeOGeNj_gXaJc_YxDII014-vzd0/edit?usp=sharing 
+
+4. feedback / questions / updates on SCMS project (10 minutes)
+	
+	- When you are tagging information like scripts and passive data, how do you go about automating different processes? 
+
+	It depends on the step in the process. You can automate the import of the data, raw processing of the data to change its format, breaking up the data, or on the other end, you can place learning ai behind human training systems.
+
+	- How are you breaking up content for the system to move into sentiment analysis? 
+
+	It depends on the medium of the content that you are analyzing. There should be several different versions of the comment analysis 
+
+	You can use document highlighting where highlights become the sentiment and the tag becomes the keyword 
+
+	You could use JSON Script to use back end HTML/CSS data
+
+	You could delineate based on punctuation to separate the sentiment
+	
+	You could make it human-readable and provide a button that separates sentiment.
+
+	There are also different views of single documents or multiple documents.
+
+
+5. Technical Mentor assistance and conversation (Valerio) 
+
+	- How should we tackle multiple data sets? 
+
+	Valerio: we should focus on what we can handle.  Focus on getting one right and then the other
+
+	Dylan: we need to focus on diversity in the content to weed out potential biases and issues.  
+
+	Venia: you can modulate these differences using the rule of generalization.  If you are in one data source you cannot generalize trends beyond the limitations of that source. If you do generalize to another source and find the pattern or trend changes in specific ways, suddenly you know more about how people feel about a topic, because they can be compared.
+
+6. Next steps, action items, and tasks
+
+	- Focusing on understanding the interactions between Perceval and ELK.
+
+	- Personal implementation of  a small scale SCMS system
+
+	- Making a rough sketch of the implementation 
+
+
