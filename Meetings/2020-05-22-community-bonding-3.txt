@@ -1,0 +1,50 @@
+﻿GSoC Meetings
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Community Bonding Meeting 3
+1. Discussion about the previous week
+   1. Implemented a working SCMS on Airtable using collecting Tweets of Amazon. Just for the initial setup, used a small database i.e around 10-15 records. https://airtable.com/invite/l?inviteId=invQFOadd977DciQ9&inviteToken=a8c0122f29ed1f6fe896348fc45bbacfbdeffacd7232852c25a415eef3e57ca7 
+      1. Defined a Communication Trace : Twitter, can be extended to include more platforms.
+      2. Defined meaningful codex 
+      3. Tagged data on the basis of Utility, Trust, Transparency, Consistency, Merit
+   2. A pilot study towards Implementation Sketch (Working Directory=https://github.com/ria18405/Working-Directory )
+      1. Created a new enricher for mbox (ScmsMboxEnricher)
+      2. Changing the attributes of data present like SubjectAnalysed-> Scms_Subject_Analysed or Body_Extract -> Scms_Body_Extract
+      3. Set mailing list and its path in projects.json 
+      4. Create a new pipermail enricher inheriting from scmsmbox
+      5. Remove all data except the 5-6 attributes mentioned i.e uuid,project,project_1,grimoire-creationdate,origin, Subject_analysed and Body_extract
+      6. Execute micro-mordred to collect and enrich data from mbox.
+      7. Dump the enriched data to an ElasticSearch index
+      8. Make a script ES2Excel which will place all attributes of data received in different columns of the excel.
+      9. Output=https://github.com/ria18405/Working-Directory/blob/master/output.csv 
+
+
+2. Delve into Standard implementation SCMS data ria has collected over the past week to emulate traditional SCMS meeting (10 minutes)
+   1. Add other platforms like Google reviews/youtube etc for data collection which focuses on general comments (for all products) of Amazon 
+
+
+3. Training by Venia or Dylan on new aspects of the SCMS (10-15 minutes)
+   1. Implementation of SCMS 
+
+
+4. feedback / questions / updates on SCMS project (10 minutes)
+   1. What is the weight of a comment and how is it implemented?
+      1. A weight refers to “how important a comment is to the community”. It's generally considered at a scale of -3 to 3. So a weight 0 would mean neutral and more negatives would imply that this specific comment/sentiment is not so much important to the community.
+   2. Is score calculated via measuring the tags ?
+      1. The implementation of Score and weights is not very rigid and can be modified as per requirements.
+      2. Score is not measured directly by tags, but also by measuring how important the comment is.
+      3. Detailed explanation will be given in the next training session.
+
+
+5. Technical Mentor assistance and conversation (Valerio) 
+   1. How do we tackle multiple sentiments in one text.
+      1. We can divide each text into multiple sentiments ensuring that the context does not get lost.
+      2. Dividing the text into different sentences could possibly do that. So to avoid this we can have a small ‘+’ icon which could combine 2/more texts together, which could help in retaining the context and getting rid of the noise.
+      3. Spreadsheets are a basic version of such an implementation, we could possibly look at MaxQDA where there is a much more systematic way of handling such case scenarios.
+
+
+6. Next steps, action items, and tasks
+   1. Advance on the elk implementation and target github issue and comments.
+   2. Try to implement sentence or paragraph breaks, retaining the context.(Possible implementation could be to try and weave NLTK)
+   3. Look for other implementations like MaxQDA or figure out a way to do the same in Airtable/google sheets.
+   4. Personal implementation of  a small scale SCMS system with Google reviews/others added and tagged
