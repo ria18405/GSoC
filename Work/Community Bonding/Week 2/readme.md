@@ -2,7 +2,7 @@
 
 #### Week 2 : SUMMARY -
 
-1. *Implement a working SCMS (Airtable)*
+1. **Implement a working SCMS (Airtable)**
 
 	Implemented a working SCMS on Airtable using collecting Tweets of Amazon. Just for the initial setup, I've used a small database i.e around 10-15 records.
 
@@ -13,7 +13,7 @@
 	* Tag data on the basis of Utility, Trust, Transparency, Consistency, Merit
 
 
-2. *A pilot study towards building an Implementation Sketch was done.* ( [Working Directory](https://github.com/ria18405/Working-Directory) )
+2. **A pilot study towards building an Implementation Sketch was done.**( [Working Directory](https://github.com/ria18405/Working-Directory) )
 
 	To compare 2 different approaches, I worked on a pilot study to test feasability of the workflow. These are the steps followed:
 
@@ -45,7 +45,7 @@ At the end of the pilot study, the approach to have ad-hoc enriched indexes will
 |EXCEL->JSON:Extra study (i.e study which create a new index) |EXCEL->JSON: Demography (i.e study which modifies data in an enriched index) |
 
 
-3. *General Basic Understanding*
+3. **General Basic Understanding**
 
 	Understood the interaction between Perceval and ELK and Kidash via terminal commands.
 
@@ -58,5 +58,5 @@ At the end of the pilot study, the approach to have ad-hoc enriched indexes will
 	* Raw data is in the form of dictionaries and enriched index is in the form of JSON file (There are 2 types of data present for an index: mapping and data type)
 
 
-4.  [Weekly Blog](https://medium.com/@guptaria/community-bonding-gsoc20-c2e1e1073d09)
+4.  Have a look at the Weekly Blog: [Weekly Blog](https://medium.com/@guptaria/community-bonding-gsoc20-c2e1e1073d09)
 
