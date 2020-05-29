@@ -1,0 +1,59 @@
+﻿GSoC Meetings
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+
+Community Bonding Meeting 4
+1. Discussion about the previous week
+   1. Extract data from marvel API by making a new Perceval Backend. Understanding the interaction between Perceval and ELK. (https://github.com/ria18405/grimoirelab-perceval/)
+   2. Made a new branch for scms implementations and tracking of the changes becomes handy. Started working on Github enricher to extract comments. (https://github.com/ria18405/grimoirelab-elk/tree/gsoc-scms)
+   3. Tried to observe some trends/keywords which can be used to define the social currency tags. 
+
+
+2. Delve into Standard implementation SCMS data ria has collected over the past week to emulate traditional SCMS meeting (10 minutes)
+   1. Discussions about trends observed like:
+      1. Utility: Use/Useful/Good-job
+      2. Trust: again
+      3. Consistency: regularly/daily/weekly/twice/thrice etc
+      4. Merit: Shoutout/worth/Thanks
+      5. Transparency: not available at the moment.
+   2. Twitter might not be the perfect data retrieval channel because the platform is often abused in low-context language.  Support tickets and emails are normally a little better indicative of the complaints or negative sentiments.
+
+
+3. Training by Venia or Dylan on new aspects of the SCMS (10-15 minutes)
+   1. What is Social Currency, why it matters, how it builds the SCMS? https://docs.google.com/presentation/d/1LHAlQiuZh7okRffmQeOGeNj_gXaJc_YxDII014-vzd0/edit#slide=id.g85fe85396d_0_5 
+   2. Social Capital theory: https://www.youtube.com/watch?v=KQ0WsF8PyWs 
+   3. Understanding SCMS working at a new level https://docs.google.com/spreadsheets/d/1ftNNOYWqii5t6nzLqs1uMFEAkoEWPWz1lsIZJCiTutA/edit?usp=sharing 
+
+
+4. feedback / questions / updates on SCMS project (10 minutes)
+   1. Negative Sentiments
+      1. The tag for both positive and negative sentiment(i.e good reviews and bad reviews ) is going to be the same. Eg: “is useful” or “is not useful” both will come under a particular metric i.e Utility.
+      2. There can be a difference in the calculation of score or having some parameter which could classify a text to be either positive or negative.
+   2. Applying Keyword analysis to larger and complex concepts and theories
+      1. That's a mode of automation called keyword analysis which is specifically different from sentiment analysis.  It is 100% a recommendation we make because it is a good way to automate it, but we generally recommend being careful about not confusing the two methods.
+      2. Sentiment Analysis:  Theme that encapsulates an overall idea, 
+keyword analysis treats tags as "when these words come up".
+      3. It might not be always ideal or 100 % accurate to label the text according to certain keywords based on trends. 
+   3. A mathematical formulation of score/weights.
+      1. The calculation and design of score or weights is flexible and can be modified as per needs. 
+      2. Ideally, it means weighing the text’s relevance to the company, or how important the sentiment is to the associated company.
+      3. It could be modified to include positive and negative sentiments scale in the score.
+
+
+5. Technical Mentor assistance and conversation (Valerio) 
+   1. Inputs about the timeline that is to follow for the next 3 months. 
+      1. https://docs.google.com/document/d/1VCzxsyQBU3MMRjMSGAUi1_1Etm7bWgLnSBdAaMaYC7U/edit?usp=sharing
+      2. Will be tuned as per requirements
+   2. Alternate implementation: Not focus on tagging the dataset at the beginning, as it will be a manual process, rather making a system first. We can randomly tag the dataset and then simultaneously keep tagging the data, and we can check with the actually tagged spreadsheet.
+      1. If the tagging process is carried out at a slow pace simultaneously along with the main timeline, we can have more records to analyse. This will also give us more time to analyse trends and patterns for the keyword analysis automation.
+      2. We’ll be assured of the presence of a robust system. 
+
+
+6. Next steps, action items, and tasks
+   1. Start with Week1 implementation steps
+   2. Try to complete marvel exploration with Perceval and ELK.
+
+
+
+
+

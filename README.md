@@ -54,6 +54,8 @@ Community sentiment is based on the opinions and expectations of community membe
 
 * WEEK 2 - BLOG: [Community Bonding week 2](https://medium.com/@guptaria/community-bonding-gsoc20-c2e1e1073d09) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/tree/master/Work/Community%20Bonding/Week%202)
 
+* WEEK 3 - BLOG: Community Bonding week 3 Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/tree/master/Work/Community%20Bonding/Week%203)
+
 ### Coding Period 1 - June 1st to July 3rd, 2020
 
 ### Coding Period 2 - July 3rd to July 27th, 2020
@@ -65,3 +67,5 @@ Community sentiment is based on the opinions and expectations of community membe
 * [Microtask Repository](https://github.com/ria18405/Microtasks)
 
 * [GSoC Project Proposal](https://drive.google.com/file/d/1szrRuXBwLTlg_TB3pW7_3BlyetG0jP89/view?usp=sharing)
+
+* [Proposed Timeline](https://docs.google.com/document/d/1VCzxsyQBU3MMRjMSGAUi1_1Etm7bWgLnSBdAaMaYC7U/edit?usp=sharing) (It will be changed in the duration of 3 months as per requirements and progress)
