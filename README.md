@@ -54,7 +54,7 @@ Community sentiment is based on the opinions and expectations of community membe
 
 * WEEK 2 - BLOG: [Community Bonding week 2](https://medium.com/@guptaria/community-bonding-gsoc20-c2e1e1073d09) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/tree/master/Work/Community%20Bonding/Week%202)
 
-* WEEK 3 - BLOG: Community Bonding week 3 Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/tree/master/Work/Community%20Bonding/Week%203)
+* WEEK 3 - BLOG: [Community Bonding week 3](https://medium.com/@guptaria/community-bonding-gsoc20-c91f1dcf466a) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/tree/master/Work/Community%20Bonding/Week%203)
 
 ### Coding Period 1 - June 1st to July 3rd, 2020
 

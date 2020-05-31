@@ -5,7 +5,7 @@ GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
 Community Bonding Meeting 4
 1. Discussion about the previous week
    1. Extract data from marvel API by making a new Perceval Backend. Understanding the interaction between Perceval and ELK. (https://github.com/ria18405/grimoirelab-perceval/)
-   2. Made a new branch for scms implementations and tracking of the changes becomes handy. Started working on Github enricher to extract comments. (https://github.com/ria18405/grimoirelab-elk/tree/gsoc-scms)
+   2. Made a new branch for scms implementations, tracking of the changes becomes handy. Started working on Github enricher to extract comments. (https://github.com/ria18405/grimoirelab-elk/tree/gsoc-scms)
    3. Tried to observe some trends/keywords which can be used to define the social currency tags. 
 
 

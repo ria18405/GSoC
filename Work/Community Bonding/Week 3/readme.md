@@ -2,7 +2,7 @@
 
 #### Week 3 : SUMMARY -
 
-1. Extracted interesting comics data from marvel API by making a new Perceval Backend. Understanding the interaction between Perceval and ELK. (https://github.com/ria18405/grimoirelab-perceval/)
+1. Extracted interesting comics data from marvel API by making a new Perceval Backend. Understanding the interaction between Perceval and ELK. [Repository](https://github.com/ria18405/grimoirelab-perceval/)
 
 2. Made a new branch for scms implementations(gsoc-scms) on my fork of the repository grimoirelab-elk. It helps in easy tracking of the changes. Started working on Github enricher to extract comments. (https://github.com/ria18405/grimoirelab-elk/tree/gsoc-scms)
 
@@ -18,7 +18,7 @@
 
     5. Transparency: not available at the moment.
 
-4. Weekly Blog
+4. Weekly Blog: [Week 3 Blog](https://medium.com/@guptaria/community-bonding-gsoc20-c91f1dcf466a)
 
 
 
