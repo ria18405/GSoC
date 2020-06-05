@@ -1,0 +1,29 @@
+﻿GSoC Meetings
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+
+Coding period 1 : Week 1
+1. Discussion about the previous week
+   1. Extracted Github comments on Issues, Pull requests ; and mbox data (Grimoirelab mailing list) 
+   2. Converted to a CSV, XLS and Airtable.
+
+2. Training by Venia or Dylan on new aspects of the SCMS (10-15 minutes)
+   1. Understanding Social Theories including Grounded Theories
+   2. Understanding the process of Community interactions to bringing it to a code-able form
+
+3. Technical Mentor assistance and conversation (Valerio) 
+   1. We’ll have to add another data point to avoid data being biased towards a platform.
+      1. We could have IRC data of CHAOSS
+      2. We could have Twitter data to be used.
+   2. Add a column of Category which indicates the data source of the data. Eg Category= Mail/ Github Issue comment etc.
+   3. Removing the uuid parameter, the “id” parameter confirms the identity.
+   4. Context and body will be treated as 1 data point. This is done to avoid data redundancy, as the usually the Subject of the mail has the same message to be delivered as the body of the mail does.
+   5. Should move to Convert tagged spreadsheet text to Elastic Search indexes
+
+
+4. Next steps, action items, and tasks
+   1. Randomly assigning scores and tags.
+   2. Generating a codex table parallely by looking at the texts.
+   3. Convert Text to ElasticSearch indexes
+   4. Including a 3rd medium of communication (IRC/Twitter)
+   5. Improve blog on CHAOSS website and link Documentation of how to install - set up as a user.
