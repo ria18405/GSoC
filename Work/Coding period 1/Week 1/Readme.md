@@ -6,6 +6,8 @@
 
 	* ID (Data Identifier)
 
+	* Channel(Data Source)
+
 	* Grimoire-creation-date (date of github comment/mail)
 
 	* Context (Subject of mail/Title of Github issue/PR title)
@@ -25,8 +27,10 @@
 
 4. Made an alias by the name of "all_scms" which will contain all scms enriched indexes under it.
 
-5. Writing a scipt ES2Excel which converts aliased Enriched index to a CSV file, xls file, Airtable view.
+5. Writing a scipt [ES2Excel](https://github.com/ria18405/GSoC/tree/master/Work/Coding%20period%201/Week%201/ES2Excel.py) which converts aliased Enriched index to a CSV file, xls file, Airtable view.
 
-6. Weekly Blog
+6. [Weekly Blog](https://medium.com/@guptaria/week-1-coding-period-1-cf83e4846308)
 
-![Image description](https://github.com/ria18405/GSoC/blob/master/assets/data_extraction.png)
+![Image description](data_extraction.png)
+
+![Image description](message.png)
