@@ -1,0 +1,33 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 1 : Week 2
+
+1. Discussion about the previous week
+   1. Randomly tagged the extracted dataset on the basis of all combinations of the 5 metrics: Trust, Transparency, Merit, Utility, Consistency
+   2. Converted the Excel data to the elasticsearch indexes with the help of enrich_extra_study
+   3. Analysed a better channel for the 3rd data point to be added.
+
+2. Training by Venia or Dylan on new aspects of the SCMS (10-15 minutes)
+   1. A delve into understanding codex table
+   2. To increase universality, decrease subjectivity, we define the codex table
+   3. It enables us to rely more on qualitative data rather than quantitative data
+
+3. Q/A
+   1. Can the trends used in keyword analysis be stored in the codex
+      1. Codex is a list of definitions of sentiments and when and when not to use that particular sentiment
+      2. Keyword Analysis is different from Sentiment Analysis and the codex must only store the sentiments. Will be talked more in detail in the next meeting (dashboarding)
+   2. Is the codex codable 
+      1. It is highly advised by social scientists to develop a codex manually by the concerned organisation, as a codex table may differ from one company to another.
+      2. Codex table also includes observing the trends in the data, and then defining terms (upper limit is usually 20).These terms can be further weaved together to result in less number of trends to be tracked.
+
+4. Technical Mentor assistance and conversation (Valerio) 
+   1. Airtable vs Google Sheets : Airtable has a limit of 1200 records per base, and Google Sheets has a limit of 5 million cells, it is better to switch on Google Sheets.(also considering organisations where even a single github repository has numerous issues)
+   2. 3rd data source:For IRC, track the previous message (or previous X messages) as the context. 
+   3. Making SCMS usable by other open source organisations.
+   4. Presently we’ll be tagging only around 100-200 data records manually, then we’ll be able to observe the trend to apply keyword analysis to the remaining data.
+
+5. Next steps, action items, and tasks
+   1. Making a codex table 
+   2. Shifting Airtable to a google sheets implementation
