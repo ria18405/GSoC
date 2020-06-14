@@ -60,7 +60,7 @@ Community sentiment is based on the opinions and expectations of community membe
 
 * WEEK 1 - BLOG: [Coding Period 1 week 1](https://medium.com/@guptaria/week-1-coding-period-1-cf83e4846308) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20period%201/Week%201/Readme.md)
 
-* WEEK 2 - BLOG: Coding Period 1 week 2 Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20period%201/Week%202/Readme.md)
+* WEEK 2 - BLOG: [Coding Period 1 week 2](https://medium.com/@guptaria/week-2-coding-period-1-c6b103dee0ce) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20period%201/Week%202/Readme.md)
 
 
 ### Coding Period 2 - July 3rd to July 27th, 2020

@@ -62,7 +62,7 @@
         [scmsgithub]
         raw_index = scms_github_issues_chaoss_raw
         enriched_index = scms_github_issues_chaoss_enriched
-        api-token = b163e27d59bbe3a5daff09cd2bbcfddca05f7e2a
+        api-token = xxxx
         sleep-for-rate = true
         no-archive = true
         category = issue
@@ -80,6 +80,6 @@
 	    ![Image description](ES.png)
 
 
-3. Analysed a better channel for the 3rd data point to be added. i.e IRC
+3. Added a 3rd data source i.e IRC for data Analysis. Performed Elasticdump on raw IRC data, and then converted ES index to a similar Excel Sheet. 
 
-4. Weekly Blog : Week2Blog
+4. Weekly Blog : [Week2 Blog](https://medium.com/@guptaria/week-2-coding-period-1-c6b103dee0ce)
