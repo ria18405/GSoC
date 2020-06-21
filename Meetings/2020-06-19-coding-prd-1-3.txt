@@ -1,0 +1,35 @@
+﻿GSoC Meetings
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+Coding period 1: Week 3
+
+1. Discussion about the previous week
+   1. Shifting the implementation of SCMS to Google Sheets
+   2. Made a codex sheet which consisted of "when to use" and "when-not-to-use" a metric. Contains modified definitions of these metrics wrt Grimoirelabs
+   3. Filtered non-useful data like the IRC comments pertaining to the joining/ leaving of people, and GitHub comments by coveralls to indicate the coverage increased/decreased.
+   4. Converted this entire Excel sheet data to the ElasticSearch index(exactly as done in Week 2. The only difference is the number of records being used. Earlier, I could only have limited records containing the "extra_scms_data" in the Enriched index, Now, every meaningful record(i.e ignoring comments by coveralls) has an additional field present in its ElasticSearch index.
+   5. Overview and rough implementation guide of SCMS
+
+2. Training by Venia or Dylan on new aspects of the SCMS (10-15 minutes)
+   1. Dashboarding, findings and expanding on the SCMS
+      1. Visual representation of qualitative data
+      2. Present changes and trends that matter to the community
+      3. Helps in developing growth strategies.
+      4. In-depth report creation: Help guide for answering questions
+
+3. Q/A
+   1. Differentiate between Currency vs Category for each record in SCMS ver 201
+      1. For extending the SCMS, we have sub-divided each currency into sub currencies and the same for categories in the codex. This could help in making more efficient policies and analysis, eg. if we are analysing Customer Service, it’ll be better if we know which sub-component of Customer Service are we targeting.
+   2. Individualism in dashboarding
+      1. We could show dashboards containing information concerning a specific user history. For instance, revealing comments by a specific user, if they are constantly negative, the organisation could reach out for better assistance, But for some organisations, they prefer having this information as private and only displaying generic information to make growth policies.
+   3. Are reports similar to a troubleshooting section
+      1. Reports are built to answer questions, they can be about unsuccessful resolutions too. They essentially help in answering questions faster and easier.
+ 
+4. Technical Mentor assistance and conversation (Valerio) 
+   1. User information in dashboards
+      1. We won’t have to extract user information like name/username of the author from ES to google sheet 
+      2. We have associated scms tags to the Enriched index, and Since we already have user information in the ES, we can represent this information in dashboards easily. 
+
+5. Next steps, action items, and tasks
+   1. Writing Tests
+   2. Making a basic dashboard.
+   3. Collaboration meeting next Friday on trends observed while tagging
