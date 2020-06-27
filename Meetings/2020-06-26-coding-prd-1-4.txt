@@ -1,0 +1,44 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 1: Week 4
+
+
+1. Discussion about the previous week
+   1. Made visualisations taking randomly tagged data
+   2. Made observations and inferences about the trends obtained from tagging the dummy data.
+
+
+2. Collaboration meeting
+   1. Most frequent trend and why?
+      1. Technical Service and utility: most observed
+      2. GrimoireLab provides a toolkit used for software development analytics.
+   2. Noise observed(untaggable records)
+      1. “abc_is now known as xyz”
+      2. “ChanServ sets mode: +o collabot`”
+   3. Category
+      1. Troubleshooting: split to “Asking for help”, “receiving help”
+      2. Payment/price and physical service: removed as categories
+      3. Three categories namely “Interpersonal”, “operational”, “transactional” are to be added.
+
+
+3. Q/A
+   1. How to tackle biased data
+      1. Adding other data sources like twitter 
+      2. Having a “channel” attribute helps us to visualise data in this form only. This can help in grouping similar outcomes.
+   2. Addition of weight in the data. 
+      1. Weight depending on positive or negative sentiments.
+      2. Weight depending on the importance of a comment to the community.
+
+
+4. Technical Mentor assistance and conversation (Valerio) 
+   1. How should a dashboard look like? 
+      1. Possible Visualizations could be on the basis of weight, author, channel, tags, category etc.
+      2. It should be dynamic, selecting a specific channel, should yield visualisations with respect to that channel.
+
+
+5. Next steps, action items, and tasks
+   1. Making a dashboard
+   2. Set up the SCMS datasheet by including random categories and using a score/weight parameter.
+   3. If time permits, we could see the possibility of adding another channel.
