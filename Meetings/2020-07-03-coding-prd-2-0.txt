@@ -1,0 +1,32 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 2: Week 5
+
+1. Discussion about the previous week
+   1. OSS summit 
+   2. Having author information into enrichers.
+   3. Dashboard formation
+
+2. Discussions
+   1. Does the author name and domain recognised as PII
+      1. Not really, we won’t have to worry about it too much, we could though show some hash in place of the name (depends on the community)
+   2. ‘Weight’ 
+      1. Weight on the basis of “Relevance” is better for grimoirelab
+      2. “Positive or negative sentiments ” scaling will not yield much data
+      3. Use -3 to +3 scale
+      4. Typically, weight is decided in collaboration meetings after observing trends
+   3. Process of Adding ‘Weight’
+      1. Possibility 1: Weight added as Tags were added
+      2. Possibility 2: Weight is added as a filter using Elastic Search.
+      3. See the possibility of both the ways.
+   4. Structure of the dashboard
+      1. Having a record at the end of the dashboard.
+
+3. Next steps, action items, and tasks
+   1. IRC data merge (enrich+study)+ IRC visualisations
+   2. Add random weights and random categories. 
+   3. Add visualisation for weights and categories.
+   4. Have a solid block in the header for SCMS.
+   5. Have 250 manually tagged dataset ready to be visualised and have a collaboration meeting for it.
