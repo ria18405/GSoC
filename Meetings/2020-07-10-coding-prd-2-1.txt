@@ -1,0 +1,45 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 2: Week 5
+
+1. Discussion about the previous week
+   1. Enricher for Supybot
+   2. Added Weight and Category
+   3. Added ‘SCMS’ in the menu bar
+   4. Added IRC visualisations, score gauge, visualisations for the weight (score)
+
+2. DIscussion
+   1. Having a visualisation of the median of the weights.
+   2. Having another visualisation in SCMS format: (1st table)
+   3. Having a bell curve representation of the weight per record.
+
+3. Calibration Meeting
+   1. 2 categories: Operational (Support Response + Incoming Request), Interpersonal
+   2. Removing Transactional from the category list.
+   3. Steps followed:
+      1. Find an important comment to be tagged.
+      2. Validate the use of those tags, categories, weight etc.
+      3. Hold a discussion, and check with the codex
+      4. Re-calibrate each one’s understanding of the tag and category’s use.
+   4. Calibrated each of our understanding of utility vs consistency. 
+   5. Need to update the definition of merit.
+
+4. Technical Mentor assistance and conversation
+   1. Integration with Grimorelab.
+   2. Steps followed until now involve these steps:
+      1. ES to Excel 
+      2. Excel to Gsheets
+      3. Tagging process: Manual || Random || Keyword Analysis(Automation)
+      4. Gsheets to JSON
+      5. Execute study to convert extra excel data to ES
+      6. Visualisation
+      7. Menu of SCMS on the header tab.
+
+5. Next steps, action items, and tasks
+   1. Integration with Grimoirelab
+   2. Having clear written down steps for documentation purposes.
+   3. Further: (maybe in the next iteration): Visual pathway/flowcharts for easier understanding of SCMS 
+
+
