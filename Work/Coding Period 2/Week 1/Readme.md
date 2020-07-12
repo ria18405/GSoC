@@ -12,6 +12,6 @@
 
 	![Image description](dashboard.gif)
 
-4. [Blog](https://medium.com/@guptaria/week-5-coding-period-2-53b8ea29418c)
+4. Weekly Blog: [Dashboard and IRC enrichers](https://medium.com/@guptaria/week-5-coding-period-2-53b8ea29418c)
 
 

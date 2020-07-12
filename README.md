@@ -69,6 +69,11 @@ Community sentiment is based on the opinions and expectations of community membe
 
 ### Coding Period 2 - July 3rd to July 27th, 2020
 
+* WEEK 5 - BLOG: [Coding Period 2 week 5](https://medium.com/@guptaria/week-5-coding-period-2-53b8ea29418c) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20Period%202/Week%201/Readme.md)
+
+
+
+
 ### Coding Period 3 - July 31st to Aug 24th, 2020
 
 ## LINKS
