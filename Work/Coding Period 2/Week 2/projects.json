@@ -1,0 +1,97 @@
+
+{
+    "GrimoireLab": {
+        "scmsgithub": [
+            "https://github.com/chaoss/grimoirelab",
+            "https://github.com/chaoss/grimoirelab-bestiary",
+            "https://github.com/chaoss/grimoirelab-cereslib",
+            "https://github.com/chaoss/grimoirelab-elk",
+            "https://github.com/chaoss/grimoirelab-graal",
+            "https://github.com/chaoss/grimoirelab-hatstall",
+            "https://github.com/chaoss/grimoirelab-kibiter",
+            "https://github.com/chaoss/grimoirelab-kidash",
+            "https://github.com/chaoss/grimoirelab-kingarthur",
+            "https://github.com/chaoss/grimoirelab-manuscripts",
+            "https://github.com/chaoss/grimoirelab-sirmordred",
+            "https://github.com/chaoss/grimoirelab-perceval",
+            "https://github.com/chaoss/grimoirelab-perceval-mozilla",
+            "https://github.com/chaoss/grimoirelab-perceval-opnfv",
+            "https://github.com/chaoss/grimoirelab-perceval-puppet",
+            "https://github.com/chaoss/grimoirelab-sortinghat",
+            "https://github.com/chaoss/grimoirelab-sigils",
+            "https://github.com/chaoss/grimoirelab-toolkit",
+            "https://github.com/chaoss/grimoirelab-tutorial"
+        ],
+        "scmspipermail": [
+            "https://lists.linuxfoundation.org/pipermail/grimoirelab-discussions/"
+        ]
+    },
+    "Augur": {
+        "scmsgithub": [
+            "https://github.com/chaoss/augur",
+            "https://github.com/chaoss/augur-sbom"
+        ]
+    },
+    "cregit": {
+        "scmsgithub": [
+            "https://github.com/cregit/cregit"
+        ]
+    },
+    "Prospector": {
+        "scmsgithub": [
+            "https://github.com/chaoss/prospector"
+        ]
+    },
+    "Metrics TC": {
+        "scmsgithub": [
+            "https://github.com/chaoss/metrics"
+        ],
+        "scmspipermail": [
+            "https://lists.linuxfoundation.org/pipermail/oss-health-metrics/"
+        ]
+    },
+    "D&I WG": {
+        "scmsgithub": [
+            "https://github.com/chaoss/wg-diversity-inclusion"
+        ],
+        "scmspipermail": [
+            "https://lists.linuxfoundation.org/pipermail/chaoss-diversity-inclusion"
+        ]
+    },
+    "Evolution WG": {
+        "scmsgithub": [
+            "https://github.com/chaoss/wg-evolution"
+        ]
+    },
+    "Common Metrics WG": {
+        "scmsgithub": [
+            "https://github.com/chaoss/wg-common"
+        ]
+    },
+    "Risk WG": {
+        "scmsgithub": [
+            "https://github.com/chaoss/wg-risk"
+        ]
+    },
+    "Value WG": {
+        "scmsgithub": [
+            "https://github.com/chaoss/wg-value"
+        ]
+    },
+    "Coordination": {
+        "scmsgithub": [
+            "https://github.com/chaoss/website",
+            "https://github.com/chaoss/whitepaper",
+            "https://github.com/chaoss/governance"
+        ],
+        "scmspipermail": [
+            "https://lists.linuxfoundation.org/pipermail/chaoss-members/",
+            "https://lists.linuxfoundation.org/pipermail/chaoss-software/",
+            "https://lists.linuxfoundation.org/pipermail/chaoss/"
+        ],
+        "scmssupybot": [
+            "irc://chat.freenode.net/chaoss-community /irclogs/freenode/#chaoss-community",
+            "irc://chat.freenode.net/grimoirelab /irclogs/freenode/#grimoirelab"
+        ]
+    }
+}

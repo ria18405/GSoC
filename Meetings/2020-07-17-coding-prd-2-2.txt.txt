@@ -1,0 +1,27 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 2: Week 6
+
+1. Discussion about the previous week
+   1. Tests for all enrichers
+   2. Converted CHAOSS data into a Google Sheet
+   3. Made the required changes in  the dashboard
+   4. Documentation flow: https://github.com/ria18405/Working-Directory/blob/master/README.md
+
+2. Discussion
+   1. Web app to use SCMS
+      1. This could be started if we have some time left in our hands after the implementation of SCMS is over.
+      2. Could be followed as an extension to SCMS in later phases.
+   2. Dynamic Changes in Google Sheets, getting reflected in the Dashboard automatically.
+   3. Moving forward with 2 case studies(CHAOSS and Mautic community), and will be providing concrete documentation for the user/contributor.Also includes making more scms specific enrichers.
+      1. This is the plan which is finalised for the gsoc timeline. 
+   4. Tagging automatically using a trained model accuracy
+      1. Possibility of low accuracy
+      2. Possibility of not tagging it appropriately because that trend wasn’t visible in the training set.
+
+3. Next steps, action items, and tasks
+   1. Laying off detailed steps for a user to contribute, and increasing User experience through it. 
+   2. Writing some tests, code polishing
+   3. Making enrichers for data sources discussed with the chaoss community manager
