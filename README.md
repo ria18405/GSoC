@@ -23,7 +23,7 @@
 
 #### MENTORS
 
-* Dylan Marcy
+* [Dylan Marcy](mailto:dylan@sociallyconstructed.online)
 
 * [Samantha Venia Logan](https://github.com/samanthavenialogan)
 
@@ -72,7 +72,7 @@ Community sentiment is based on the opinions and expectations of community membe
 * WEEK 5 - BLOG: [Coding Period 2 week 5](https://medium.com/@guptaria/week-5-coding-period-2-53b8ea29418c) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20Period%202/Week%201/Readme.md)
 
 
-* WEEK 6 - BLOG: Coding Period 2 week 6 Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20Period%202/Week%202/Readme.md)
+* WEEK 6 - BLOG: [Coding Period 2 week 6](https://medium.com/@guptaria/week-6-coding-period-2-52bdfbe4cd38) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20Period%202/Week%202/Readme.md)
 
 
 
