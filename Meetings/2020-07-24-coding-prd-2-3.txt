@@ -1,0 +1,22 @@
+﻿GSoC Meetings
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+Coding period 2: Week 7
+1. Discussion about the previous week
+   1. Tag data https://docs.google.com/spreadsheets/d/1aovsADe0Be2ociXXd6efJO0pUEpHQsdz9X9P4HbvtNo/edit?usp=sharing 
+   2. Correcting Travis Tests, Rebase errors, checking rest tests
+   3. PR #924
+   4. Code polishing
+   5. Documentation flow: https://github.com/ria18405/Working-Directory/blob/master/README.md
+2. DIscussion
+   1. Describing the system of SCMS to Elizabeth, showing Dashboard and the google sheet
+   2. Considering various data sources like Twitter, Survey Data etc
+   3. Defining Roles
+      1. Tagging partners: Ria, Valerio, Venia, Dylan, Georg, Elizabeth
+      2. Support and witness: Sean Goggins, Matt G
+   4. Small discussion on Reaction on monitored Audience conversations
+3. Next steps, action items, and tasks
+   1. Making enrichers for data sources discussed for chaoss: Twitter
+   2. Writing some tests, code polishing
+   3. Have an instance Launch with Elizabeth: Tuesday 6pm (IST)
+   4. Basic introductory training of SCMS system between Vinia, Dylan, Elizabeth: Wednesday
+   5. Tagging in the google Sheet data, and having collaboration discussions on Friday
