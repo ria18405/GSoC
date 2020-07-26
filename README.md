@@ -71,9 +71,9 @@ Community sentiment is based on the opinions and expectations of community membe
 
 * WEEK 5 - BLOG: [Coding Period 2 week 5](https://medium.com/@guptaria/week-5-coding-period-2-53b8ea29418c) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20Period%202/Week%201/Readme.md)
 
-
 * WEEK 6 - BLOG: [Coding Period 2 week 6](https://medium.com/@guptaria/week-6-coding-period-2-52bdfbe4cd38) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20Period%202/Week%202/Readme.md)
 
+* WEEK 7 - BLOG: [Coding Period 2 week 7](https://medium.com/@guptaria/week-7-coding-period-2-60ce079802fa) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20Period%202/Week%203/Readme.md)
 
 
 ### Coding Period 3 - July 31st to Aug 24th, 2020
@@ -85,3 +85,5 @@ Community sentiment is based on the opinions and expectations of community membe
 * [GSoC Project Proposal](https://drive.google.com/file/d/1szrRuXBwLTlg_TB3pW7_3BlyetG0jP89/view?usp=sharing)
 
 * [Proposed Timeline](https://docs.google.com/document/d/1VCzxsyQBU3MMRjMSGAUi1_1Etm7bWgLnSBdAaMaYC7U/edit?usp=sharing) (It will be changed in the duration of 3 months as per requirements and progress)
+
+* [Project Selection Link](https://summerofcode.withgoogle.com/projects/#4527640054071296) on Google Summer of Code Site
