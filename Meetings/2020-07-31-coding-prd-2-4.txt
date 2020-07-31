@@ -1,0 +1,50 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 2: Week 8
+
+1. Discussion about the previous week
+   1. Written an SCMS Twitter Enricher, tests
+   2. Consolidated chaoss indexes and converted it to a Google Sheet.
+   3. Tagged records from different channels 
+
+
+2. Calibration Discussion Points
+
+   1. Discussed 2 major comments that we found were important while tagging data. (comment no 25, comment no 46)
+
+   2. Constructed definitions of some tags and categories
+      1. Administrative(Category)
+      2. Metric Development (Category)
+      3. Consistency (Currency Tag) 
+
+   3. Addition of sub categories for Administrative:
+      1. Workflow (discussing intermediate things)
+      2. CHAOSS mission (discussion of end goal of the community)
+
+   4. Selection of Weight system 
+      1. Based on comment relevancy
+      2. Based on happiness factor(i.e positive or negative emotion) 
+
+   5. Decision of Weight System:
+      1. Adding both weights in the spreadsheet, and seeing them in the dashboard, 
+      2. If tagging rest data becomes arduous with 2 weights or if the tagged data doesn't make much sense, we could move back to the idea of a single weight.
+
+
+3. Other SCMS CHAOSS discussions
+   1. Channels: Inclusion of Github:
+      1. Start small by 3 channels, and compare trends with other channels later to confirm trends. (long term)
+
+   2. User Experience:
+      1. [Try to resolve] Clip the mails into shorter mails because of inconvenience to read. (Adding filter in Google Sheets)
+      2. [long term] A feature to have sub tags added (eg “Generosity”/”Appreciative” could be a sub category to “Transparency”)
+      3. [long term] A feature to have a record classified under multiple Categories.  
+      4. [long term] A feature to split a message into 2 or 3 different messages, (in case 1 message contains mixed sentiments)
+
+
+4. Next steps, action items, tasks
+   1. Solidify a codex, tag 125-150 data records.
+   2. Resolve an issue of extra fields enricher study.
+   3. Trying ways to Increase User Experience of tagging by adding a feature to filter data in Google Sheets (eg: clip the mail size)
+   4. Modifying the dashboard to have a weight selector and select any method on the basis of Relevancy(Importance of a comment) or Happiness(Positive or negative sentiment)
