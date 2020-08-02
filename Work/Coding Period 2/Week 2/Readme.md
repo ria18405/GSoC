@@ -4,7 +4,7 @@
 
 1. Wrote tests for all enrichers
 
-2. Collected all CHAOSS community interactions data, and converted it into a Google Sheets. It includes all conversations from github issues and pull requests (accross different project repositories), mailing lists, IRC channel. The project.json file can be found [here](projects.json).The Google Sheet containing 67k+ records can be found [here](https://docs.google.com/spreadsheets/d/1wXBO-Xvgm7qWcgqDSMBfnXhUMEMX3N-zQEnnGZeQktE/edit?usp=sharing).
+2. Collected all CHAOSS community interactions data, and converted it into a Google Sheets. It includes all conversations from github issues and pull requests (accross different project repositories), mailing lists, IRC channel. The project.json file can be found [here](projects.json).The Google Sheet containing 6.7k+ records can be found [here](https://docs.google.com/spreadsheets/d/1wXBO-Xvgm7qWcgqDSMBfnXhUMEMX3N-zQEnnGZeQktE/edit?usp=sharing).
 
 3. Made the required changes in some visualisations in the dashboard. 
 
