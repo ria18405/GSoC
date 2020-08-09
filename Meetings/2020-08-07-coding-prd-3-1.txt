@@ -1,0 +1,28 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 3: Week 9
+
+1. Discussion about the previous week
+   1. Tag data for CHAOSS SCMS sheet
+   2. Wrote a function in JavaScript in Google Sheet for Clipping Mails to 3 sentences(to increase User Experience)
+   3. PyCon Proposal, video and slides (in progress)
+
+2. Discussion
+   1. Format to have RT considered as more important. 
+   2. Hatstall - Roles considered: Tagging records differently according to different user roles (eg Casual, Core, Regular contributor )
+   3. [DrillDown] Subcategories: Tag as a subcategory, Dashboard considers it as Category. 
+
+3. Calibration
+   1. Administrative includes meetings, operational items (rituals) 
+   2. Conference: All conferences for now (including CHAOSSCon)
+   3. Considering only weight by Relevance.  (Happiness: difficult to tag)
+   4. Considering combining Onboarding and Welcome
+   5. Discussions to categorise podcasts, logos, meetings, general operations
+
+4. Next steps, action items, and tasks
+   1. Prepare a dashboard for CHAOSS
+   2. Revisit tags and check codex.
+   3. Start communicating with Mautic Community to set up the instance.
+   4. Completing definitions and use cases in the codex.
