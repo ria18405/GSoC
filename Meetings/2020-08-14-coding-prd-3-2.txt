@@ -1,0 +1,63 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 3: Week 10
+
+1. Discussion about the previous week
+   1. Tag data for CHAOSS SCMS sheet
+   2. PyCon Proposal submitted
+   3. Dashboard ready for CHAOSS
+   4. Executing onion study to have clearly defined roles for each user.
+   5. Discussing the approach to drill down into subcategories. (only while converting Excel to ES) 
+
+
+2. Discussion/Calibration
+   1. Weights?
+      1. Weights- Relevance/Happy
+      2. Visualization of weight per currency
+   2. Convert utility and transparency to merit. 
+   3. Changing historical comments
+   4. Trust- 
+      1. long term relationship
+      2.  Internal Merit (Affiliation)
+   5. Utility +Merit = Trust
+   6. Workflow vs Technology vs User Experience : 
+      1. Technology- Software Development Requests and All feature requests
+   7. CHAOSS Mission -> future of CHAOSS
+   8. Low-frequency tags:
+      1. Solution1: Data table of categories: indicating the frequency of categories
+      2. Commercial Brands: get rid of them
+      3. OSS: low trends matter more: cant get rid of them
+      4. Solution: Pie chart of categories classifying as others until it becomes a significant category.
+   9. Communication: Sounds general: removed
+   10. [UX] A view in Google Sheet: indicating all records with Invalid category.
+   11. [UX]: A view in GSheet filtering date 
+
+
+3. Analysing Trends and Patterns: Dashboard
+
+   1. Utility reached its peak in Oct’2019, having a value of 12. At all other times, the value of utility has been around 2-3. - Indicating an odd utility value, and measures could be taken to make utility more uniform! 
+
+   2. Transparency has been fairly consistent throughout the last 2 years. (Kudos!)
+
+   3. The value of all other social currencies like Trust, Merit, Consistency has been very low throughout, the value moves around 1-2 in 1 month. Could work on converting utility and transparency towards Merit! 
+
+   4. We found 42.86% of emails categorised as Administrative, and only 14% of mails involve community content. Increasing contributor participation is imperative!
+
+   5. IRC conversations involve more technical support discussions(32%) or interpersonal discussions(owing to it being a chat system)- (24%)
+
+   6. 38% of tweets are about community content (owing to the nature of the forum) and 42% of tweets are about Conferences. 
+
+   7. In all platforms, we can see that +ve weights overweigh negative weights, meaning mostly community discussions are relevant to projects and other people involved. (Kudos!)
+
+   8. Also, we see the “Transparent” as the most popular social currency of the CHAOSS community. 
+
+   9. In the end, These assessments are recorded from 200 conversations only, as more tags come in, we’ll get more clarity towards the community’s nature.
+
+
+4. Next steps, action items, and tasks:
+   1. Weekly interactions in Chaoss community.
+   2. Tag records for calibration
+   3. Consolidate scripts for final evaluation
+   4. Fix Bug for onion study & adding subcategories as per codex.

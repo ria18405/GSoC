@@ -82,6 +82,8 @@ Community sentiment is based on the opinions and expectations of community membe
 
 * WEEK 9 - BLOG: [Coding Period 3 week 9](https://medium.com/@guptaria/week-9-coding-period-3-1444a048be) Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20Period%203/Week%201/Readme.md)
 
+* WEEK 10 - BLOG: [Coding Period 3 week 10]() Weekly Summary: [Weekly report](https://github.com/ria18405/GSoC/blob/master/Work/Coding%20Period%203/Week%202/Readme.md)
+
 ## LINKS
 
 * [Microtask Repository](https://github.com/ria18405/Microtasks)
