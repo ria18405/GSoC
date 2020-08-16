@@ -8,6 +8,6 @@
 
 2. Tagged data for CHAOSS SCMS sheet: [Spreadsheet](https://docs.google.com/spreadsheets/d/1wXBO-Xvgm7qWcgqDSMBfnXhUMEMX3N-zQEnnGZeQktE/edit?usp=sharing) - Now we have 200+ records tagged!
 
-3. Weekly Blog: [A sneak peek into the dashboard]
+3. Weekly Blog: [A sneak peek into the CHAOSS dashboard](https://medium.com/@guptaria/week-10-coding-period-3-b7004e46a676)
 
 4. Analysis & Calibration Meeting: [2020-08-14](https://github.com/ria18405/GSoC/blob/master/Meetings/2020-08-14-coding-prd-3-2.txt)
