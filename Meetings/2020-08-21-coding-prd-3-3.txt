@@ -1,0 +1,35 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 3: Week 11
+
+1. Discussion about the previous week
+   1. Executing onion study to have clearly defined roles for each user. - creating a new index, and it wasn't possible to merge it.
+   2. Discussing the approach to drill down into subcategories. (only while converting Excel to ES) 
+   3. Draft a report.
+   4. Consolidated Scripts.
+
+2. Discussion
+   1. Final Report
+      1. Combination of all weeks work/ months work
+      2. Just summarising the work done
+      3. Demo Video
+      4. Having a blog post summarizing the work done on SCO
+   2. Having CHAOSS case study         
+      1. Interview format
+   3. Maintaining SCMS
+      1. Analysing weekly data
+      2. Having a client for SCMS
+   4. Fundings
+
+3. Future of SCMS
+   1. Chrome Extension to tag records simultaneously.
+   2. Saving tagged records into an SQL database or similar (GSheets limit reaches)
+   3. Auto-import data (Week Wise data)- (Running the script automatically weekly)
+   
+4. Next steps, action items, and tasks:
+   1. CHAOSS case study
+   2. Push scripts to #924
+   3. Writing tests, merge PR
+   4. Final report
