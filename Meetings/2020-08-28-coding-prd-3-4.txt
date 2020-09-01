@@ -1,0 +1,30 @@
+﻿GSoC Meetings
+
+GSoC 2020: Implement the Social Currency Metrics System in GrimoireLab
+
+Coding period 3: Week 12
+
+1. Discussion about the previous week
+   1. Completion of the project and documenting it.
+   2. Draft a report.
+
+2. Discussion
+   1. Final Report
+      1. Github gist
+   2. Reporting CHAOSS case study 
+   3. Maintaining SCMS
+   4. Changing GrimoireLab?
+      1. Improve Current implementations
+      2. Having new implementation systems which can cater to new goals.
+   5. Future of SCMS:
+      1. Saving tagged records into an SQL database or similar (GSheets limit reaches)
+      2. Auto-import data (Week Wise data)- (Running the script automatically weekly)
+      3. Making new GSheet weekly, 
+      4. As soon as it is tagged, push it to a solid Database.
+      5. Deployment: Jenkins
+      6. Automating in tagging system 
+      
+3. Next steps, action items, and tasks:
+   1. CHAOSS case study
+   2. Final report
+   3. Discussing future roles
